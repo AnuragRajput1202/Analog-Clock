@@ -1,0 +1,1 @@
+This is a wall clock made by Anurag Rajput using timing event in javascript.
